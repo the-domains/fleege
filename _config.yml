@@ -1,0 +1,28 @@
+name: Fleege
+favicon: null
+layout_spectrum: 0.41250210045836866
+typography_spectrum: 0.6905645155347884
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5672886744141579
+  lightness: 0.026911637978628278
+  saturation: 0.7246291688643396
+  rhythmicContrast: 0.0734400381334126
+purpose: []
