@@ -1,5 +1,6 @@
 name: Fleege
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/322746c7-a266-49ed-b8d2-6c209e6c44ad.png
 layout_spectrum: 0.41250210045836866
 typography_spectrum: 0.6905645155347884
 cta:
@@ -26,3 +27,38 @@ color:
   saturation: 0.7246291688643396
   rhythmicContrast: 0.0734400381334126
 purpose: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9db76fd2-9a8a-4c00-b720-679a8ec189cc.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/9db76fd2-9a8a-4c00-b720-679a8ec189cc.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Places2C
+description: Exploring Local History
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/863176c5-70cc-4178-b30d-a78fceccc8b8.png
+author:
+  name: Bob Fleege
+  email: bob@places2c.us
+  url: 'https://places2c.us'
+url: 'https://places2c.us'
+github: true
